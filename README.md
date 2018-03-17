@@ -29,6 +29,6 @@ To start DLinks (in a Command Prompt/Terminal in the folder) just type `node ser
 
 # "I want X issue fixing, Y thing changing or Z feature added!"
 
-Make an issue! Please put [Issue], [Change], [Feature] or [Other] in the title so I know exactly what you want.
+Make an issue! Please put `[Issue]`, `[Change]`, `[Feature]` or `[Other]` in the title so I know exactly what you want.
 
-Or (if you know how) fork the repo, make/fix it and submit a pull request (Again, Please put [Issue], [Change], [Feature] or [Other] in the title so I know exactly what you've done)!
+Or (if you know how) fork the repo, make/fix it and submit a pull request (Again, Please put `[Issue]`, `[Change]`, `[Feature]` or `[Other]` in the title so I know exactly what you've done)!
