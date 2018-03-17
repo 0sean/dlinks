@@ -16,8 +16,11 @@ Assuming you have Node.js (preferrably a newer version, tested and works on v8.1
 Just open the config.json and edit all the fields to your liking.
 
 `port` is the port DLinks is hosted on.
+
 `title` is the name used on the pages, in the footer and in the actual title.
+
 `author` is the name used in the footer.
+
 `description` is the website description used on the pages.
 
 # You're ready!
