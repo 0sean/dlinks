@@ -1,0 +1,31 @@
+{
+  "name": "dlinks",
+  "version": "1.0.0",
+  "description": "A self-hostable Discord URL shortener.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/theanidox/dlinks"
+  },
+  "keywords": [
+    "discord",
+    "discord url",
+    "discord url shortener",
+    "url shortener"
+  ],
+  "author": "Anidox",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "enmap": "^0.6.2",
+    "enmap-level": "^1.0.1",
+    "express": "^4.16.3",
+    "request": "^2.85.0",
+    "request-promise-native": "^1.0.5"
+  }
+}

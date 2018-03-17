@@ -1,0 +1,6 @@
+{
+  "port": 80,
+  "title": "DLinks",
+  "author": "Anidox",
+  "description": "A self-hostable Discord URL shortener."
+}

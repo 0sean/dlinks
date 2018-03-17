@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+  <%- include('../partials/head'); %>
+</head>
+<body>
+  <section class="hero is-info">
+    <%- include('../partials/header'); %>
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title whitetext">
+        <%- title %>
+      </h1>
+      <h2 class="subtitle whitetext">
+        <%- desc %>
+      </h2>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="container is-fluid">
+    <% counter = 0; %>
+    <% db.forEach(e => { %>
+      <%- include('../partials/listguild', {e: e, w: JSON.parse(widgets[counter])}); %>
+      <% counter++ %>
+    <% }); %>
+</div>
+</section>
+<%- include('../partials/footer'); %>
+</body>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+  <%- include('../partials/head'); %>
+</head>
+<body>
+  <section class="hero is-info is-fullheight">
+    <%- include('../partials/header'); %>
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        <%- name %>
+      </h1>
+      <br>
+      <span class="tag is-rounded">/<%- shortlink %></span> <span class="tag is-rounded"><%- channels %> channels</span> <span class="tag is-rounded"><%- members %> members</span> <a href=<%- invite %>><span class="tag is-rounded">Join!</span></a>
+    </div>
+  </div>
+</section>
+<%- include('../partials/footer'); %>
+</body>
