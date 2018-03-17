@@ -1,6 +1,6 @@
 ## DLinks
 
-** A self-hostable Discord URL shortener. **
+**A self-hostable Discord URL shortener.**
 
 # What is DLinks?
 
