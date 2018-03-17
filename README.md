@@ -1,5 +1,7 @@
 ## DLinks
+
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2e040ff63a824408a93a0c86cd656228)](https://www.codacy.com/app/theanidox/dlinks?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=theanidox/dlinks&amp;utm_campaign=Badge_Grade)
+
 **A self-hostable Discord URL shortener.**
 
 # What is DLinks?
